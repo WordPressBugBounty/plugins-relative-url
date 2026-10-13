@@ -4,7 +4,7 @@ Donate link: https://sparanoid.com/donate/
 Tags: admin, administration, comment, comments, content, contents, excerpt, excerpts, feed, feeds, html, multisite, page, pages, plugin, plugins, post, posts, template, templates, text, title, wp_make_link_relative, widget, widgets, wpmu, writing
 Requires at least: 2.1.0
 Tested up to: 5.8
-Stable tag: 0.1.8
+Stable tag: 0.1.9
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -131,6 +131,9 @@ URLs in RSS feed are also replaced to relative URLs with this plugin, this could
 * First release
 
 == Changelog ==
+
+= 0.1.9 =
+* Maintenance update.
 
 = 0.1.8 =
 * Compatibility check for 5.8, nothing new, just bump version to tell everyone this plugin still works.
